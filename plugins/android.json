@@ -1,0 +1,34 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.jordifrancesc.hello"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "com.jordifrancesc.hello"
+    },
+    "cordova-plugin-datetime-picker": {
+      "PACKAGE_NAME": "com.jordifrancesc.hello"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.jordifrancesc.hello"
+    },
+    "cordova-plugin-datepicker": {
+      "PACKAGE_NAME": "com.jordifrancesc.notifications"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.jordifrancesc.hello"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.jordifrancesc.hello"
+    }
+  }
+}
